@@ -1,0 +1,2 @@
+select * from MINI_INGESTION_DB.RAW.RAW_CUSTOMER where CUSTOMER_NAME
+like 'S%';
